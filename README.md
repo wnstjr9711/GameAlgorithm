@@ -1,6 +1,7 @@
 # GameAlgorithm
 
 1. Basic Rule
+
 ![image](https://user-images.githubusercontent.com/67565800/104925547-57799980-59e2-11eb-9d38-21a2d076da91.png)
 
 - 이번 프로젝트는 Pixel 게임으로 기준점의 열이나 행을 한 개만 변경하여서 이동하는 게임이다. 
