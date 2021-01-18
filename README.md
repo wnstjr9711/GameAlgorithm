@@ -12,7 +12,10 @@
 
 2. 승리조건
 - 가로 or 세로 or 대각선 4개 and 연속된 돌 and 2X2 모양의 돌
-                        
+
+![image](https://user-images.githubusercontent.com/67565800/104925852-b17a5f00-59e2-11eb-9162-6b98400c15dc.png)
+![image](https://user-images.githubusercontent.com/67565800/104925855-b3442280-59e2-11eb-8937-982270755af2.png)
+                    
 
 - 상대가 아래 조건을 달성할 경우 승리!
    1. 맵을 벗어난 위치 2. 코너의 위치 3. 이미 높여진 돌의 위치 4. 행과 열이 모두 바뀐 위치 4. 에러 발생 => 해당 조건을 하나라도 달성한 플레이어는 바로 패배.
